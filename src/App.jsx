@@ -14,8 +14,8 @@ import {
 import { PieChart, Pie, Cell, Tooltip as RechartsTooltip, ResponsiveContainer } from "recharts";
 
 // ─── Supabase ────────────────────────────────────────────────────────────────
-const SUPABASE_URL = "https://rqjryuvqwahiyatbwodt.supabase.co";
-const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJxanJ5dXZxd2FoaXlhdGJ3b2R0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM4NDU5MDcsImV4cCI6MjA4OTQyMTkwN30.9TlvR_ddHoCGvZfgVmNazpL3eqUcWdTfVBkrTBtGK1I";
+const SUPABASE_URL = import.meta.env.VITE_SUPABASE_URL;
+const SUPABASE_ANON_KEY = import.meta.env.VITE_SUPABASE_ANON_KEY;
 
 async function supabaseFetch(path, options = {}) {
   const token = localStorage.getItem("sb_token");
