@@ -8,11 +8,15 @@ An advanced full-stack application designed for students and professionals to tr
 
 | Dashboard Overview | Budget vs Actual |
 | :---: | :---: |
-| ![Dashboard](https://github.com/user-attachments/assets/dd7cede4-0bbe-4fd1-8118-134ea6309d89) | ![Transactions](https://github.com/user-attachments/assets/c8b186e8-32a6-4685-b785-d9e5f7abe776) |
+| <img width="1901" height="1032" alt="dashboard" src="https://github.com/user-attachments/assets/458fea5e-7fef-4123-a2a5-8c233be86df8" />
+ | <img width="1890" height="1026" alt="transactions" src="https://github.com/user-attachments/assets/e0588c20-223a-46d1-bc72-9c49a6a5f51b" />
+ |
 
 | Savings Goals | Assets Management |
 | :---: | :---: |
-| ![Goals](https://github.com/user-attachments/assets/3125111c-e954-46fd-9f43-1bf72e733930) | ![Assets](https://github.com/user-attachments/assets/2ea536be-3eb6-41df-aa80-ac6c683c547b) |
+| <img width="1917" height="1027" alt="goals" src="https://github.com/user-attachments/assets/e5769d19-2823-4e7d-a902-3724fe0bf2f6" />
+ | <img width="1891" height="1026" alt="assets" src="https://github.com/user-attachments/assets/23dc593e-bdd6-490c-88c3-bc96911f621b" />
+ |
 
 ---
 
