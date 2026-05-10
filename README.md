@@ -4,22 +4,6 @@ An advanced full-stack application designed for students and professionals to tr
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard Overview | Budget vs Actual |
-| :---: | :---: |
-| <img width="1901" height="1032" alt="dashboard" src="https://github.com/user-attachments/assets/458fea5e-7fef-4123-a2a5-8c233be86df8" />
- | <img width="1890" height="1026" alt="transactions" src="https://github.com/user-attachments/assets/e0588c20-223a-46d1-bc72-9c49a6a5f51b" />
- |
-
-| Savings Goals | Assets Management |
-| :---: | :---: |
-| <img width="1917" height="1027" alt="goals" src="https://github.com/user-attachments/assets/e5769d19-2823-4e7d-a902-3724fe0bf2f6" />
- | <img width="1891" height="1026" alt="assets" src="https://github.com/user-attachments/assets/23dc593e-bdd6-490c-88c3-bc96911f621b" />
- |
-
----
-
 ## 🌐 Live Demo
 **Access the application here:** 👉 [https://clarity-finance.vercel.app](https://clarity-finance.vercel.app)
 
