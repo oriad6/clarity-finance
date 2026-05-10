@@ -4,6 +4,18 @@ An advanced full-stack application designed for students and professionals to tr
 
 ---
 
+## 📸 Screenshots
+
+| Dashboard Overview | Budget vs Actual |
+| :---: | :---: |
+| ![Dashboard](https://github.com/user-attachments/assets/dd7cede4-0bbe-4fd1-8118-134ea6309d89) | ![Transactions](https://github.com/user-attachments/assets/c8b186e8-32a6-4685-b785-d9e5f7abe776) |
+
+| Savings Goals | Assets Management |
+| :---: | :---: |
+| ![Goals](https://github.com/user-attachments/assets/3125111c-e954-46fd-9f43-1bf72e733930) | ![Assets](https://github.com/user-attachments/assets/2ea536be-3eb6-41df-aa80-ac6c683c547b) |
+
+---
+
 ## 🌐 Live Demo
 **Access the application here:** 👉 [https://clarity-finance.vercel.app](https://clarity-finance.vercel.app)
 
@@ -23,12 +35,12 @@ An advanced full-stack application designed for students and professionals to tr
 
 ## 🛠 Tech Stack
 
-* **Frontend:** [React.js](https://reactjs.org/) (Vite), [Tailwind CSS](https://tailwindcss.com/).
-* **Charts:** [Recharts](https://recharts.org/).
-* **Backend & DB:** [Supabase](https://supabase.com/) (PostgreSQL).
-* **Security:** [Row Level Security (RLS)](https://supabase.com/docs/guides/auth/row-level-security).
-* **Deployment:** [Vercel](https://vercel.com/).
-* **Development Tools:** [Cursor](https://cursor.com/), [Claude Code](https://claude.ai/).
+* **Frontend:** React.js (Vite), Tailwind CSS.
+* **Charts:** Recharts.
+* **Backend & DB:** Supabase (PostgreSQL).
+* **Security:** Row Level Security (RLS).
+* **Deployment:** Vercel.
+* **Development Tools:** Cursor, Claude Code.
 
 ---
 
