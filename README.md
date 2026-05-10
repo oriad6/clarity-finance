@@ -1,4 +1,4 @@
-content = """# 💸 Clarity — Personal Finance & Savings Tracker
+# 💸 Clarity — Personal Finance & Savings Tracker
 
 An advanced full-stack application designed for students and professionals to track income, manage expenses, and automate savings goals with visual insights.
 
