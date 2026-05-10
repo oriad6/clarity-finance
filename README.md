@@ -1,16 +1,55 @@
-# React + Vite
+# 💸 Clarity — Personal Finance & Savings Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An advanced full-stack application designed for students and professionals to track income, manage expenses, and automate savings goals with visual insights.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
+**Access the application here:** 👉 [https://clarity-finance.vercel.app](https://clarity-finance.vercel.app)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌟 Key Features
 
-## Expanding the ESLint configuration
+* **Financial Dashboard:** High-level overview of total balance, monthly income, and expenses.
+* **Automated Savings Engine:** Smart logic to calculate and allocate savings based on user-defined targets.
+* **Visual Analytics:** Interactive **Donut Charts** (via Recharts) for category-based expense distribution.
+* **Multi-Currency & RTL Support:** Fully responsive UI with native **Hebrew (RTL)** and English support.
+* **Secure Authentication:** User management powered by **Supabase Auth**.
+* **Data Export:** Export financial reports directly to **Excel** for deep analysis.
+* **Persistence:** Real-time data sync and storage with **PostgreSQL**.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+* **Frontend:** React.js (Vite), Tailwind CSS.
+* **Charts:** Recharts.
+* **Backend & DB:** Supabase (PostgreSQL).
+* **Security:** Row Level Security (RLS).
+* **Deployment:** Vercel.
+* **Development Tools:** Cursor, Claude Code.
+
+---
+
+## 🏗 System Architecture & Security
+
+This project was built with a focus on **Security** and **Scalability**:
+* **Row Level Security (RLS):** Every database query is restricted at the engine level, ensuring users can only access their own data.
+* **AI-Augmented Development:** Built using AI-native workflows (Cursor/Claude) for rapid prototyping and architectural validation.
+* **Environment Safety:** Sensitive API keys are managed via environment variables (Vercel/`.env`).
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+* Node.js (v18+)
+* Supabase Account
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/clarity-finance.git](https://github.com/YOUR_USERNAME/clarity-finance.git)
+   cd clarity-finance
